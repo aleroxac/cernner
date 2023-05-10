@@ -1,0 +1,19 @@
+kind: skill
+name: golang
+description: Be able to work with golang development language
+scope: "development"
+category: "language"
+purpose: "general"
+level: 1
+priority: 1
+tags: ["golang", "go"]
+---
+kind: skill
+name: python
+description: Be able to work with python development language
+scope: "development"
+category: "language"
+purpose: "general"
+level: 6
+priority: 2
+tags: ["python", "py"]
