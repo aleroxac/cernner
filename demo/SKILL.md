@@ -1,4 +1,4 @@
-# Use Mode
+# Skill
 
 ## build
 ``` shell
@@ -36,5 +36,5 @@ priority: 1
 tags: ["golang", "go"]
 EOF
 
-./cern skill -f myskills.yaml
+./cern skill -f assets/skills.yaml
 ```

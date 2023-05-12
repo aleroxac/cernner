@@ -35,13 +35,7 @@ var tags []string
 var file string
 
 func createSkill(cmd *cobra.Command, args []string) error {
-	// Check if all required flags are set
-	// if name == "" || description == "" || scope == "" || category == "" || purpose == "" || level == 0 || priority == 0 {
-	// 	return errors.New("missing required flag")
-	// }
-
 	if file != "" {
-
 		file_content, err := os.ReadFile(file)
 		if err != nil {
 			fmt.Println(err)
