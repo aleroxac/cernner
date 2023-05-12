@@ -1,4 +1,4 @@
-module github.com/aleroxac/cernner/skill
+module github.com/aleroxac/cernner
 
 go 1.20
 

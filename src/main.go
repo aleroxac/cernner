@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/aleroxac/cernner/skill/skill"
+	"github.com/aleroxac/cernner/skill"
 	"github.com/spf13/cobra"
 )
 
